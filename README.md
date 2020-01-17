@@ -1,6 +1,8 @@
 ## Udacity ComputerVision PeerReviewed SLAM Project
 Project 3: Object Detection and Localization (**SLAM**)
 
+![](Udacity_ComputerVision_PeerReviewed_Project---SLAM/Awesome_FinalProject_Review.png)
+
 This repository contains all of my work and comprehensive codes on Project3, the last project of CVND. 
 - SLAM project helps me learn how to combine robot sensor measurements and movement to create a map of an environment from only sensor and motion data gathered by a robot, over time. 
 - SLAM gives a way to track robot location in the world in real-time and identify landmarks locations such as buildings, trees, rocks, and other world features. 
