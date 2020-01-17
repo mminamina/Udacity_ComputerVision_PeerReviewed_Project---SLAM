@@ -24,6 +24,14 @@ For project instructions, please refer to https://github.com/udacity/P3_Implemen
 - Notebook 2. Omega and Xi, Constraints.ipynb;
 - Notebook 3. Landmark Detection and Tracking.ipynb;
 - Notebook 4. Zip Your Project Files and Submit.ipynb
+
+### Additional Helpful Resources
+- SLAM: https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping
+- SLAM: https://people.eecs.berkeley.edu/~pabbeel/cs287-fa09/readings/Durrant-Whyte_Bailey_SLAM-tutorial-I.pdf
+- Single-Variable Calculus: https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/
+- Multi-Variable Calculus: https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/
+
+
 #### Packages Used
 Python 3.6, Pytorch
 
