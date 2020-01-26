@@ -34,7 +34,7 @@ For project instructions, please refer to https://github.com/udacity/P3_Implemen
 - Multi-Variable Calculus: https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/
 
 
-#### Packages 
+#### Packages Used
 Python 3.6, Pytorch
 
 LICENSE: This project is licensed under the terms of the MIT license.
